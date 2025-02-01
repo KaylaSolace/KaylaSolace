@@ -18,5 +18,5 @@
 [![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white)](https://affinity.serif.com/en-us/photo/)
 [![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)](https://krita.org/en/download/)
 
-[![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=Kodey-Kayla&count=10&loved=true&loved_style=3&show_user=always&bg_color=1a1a1a&width=500&border_radius=13&header_style=none&footer_style=compact)](https://www.last.fm/user/Kodey-Kayla)
+[![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=KaylaSolace&count=10&loved=true&loved_style=3&show_user=always&bg_color=1a1a1a&width=500&border_radius=13&header_style=none&footer_style=compact)](https://www.last.fm/user/KaylaSolace)
 </div>
